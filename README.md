@@ -8,7 +8,7 @@
 
 <h2> Achievements</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishal24102002&label=Profile%20views&color=0e75b6&style=flat" alt="vishal24102002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cipher-Void&label=Profile%20views&color=0e75b6&style=flat" alt="vishal24102002" /> </p>
 
 
 <p align='center'>
@@ -16,7 +16,7 @@
 </p>
 
 ### 🏆 GitHub Trophies 🏆
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=vishal24102002&theme=onedark&no-bg=true&margin-w=15&no-frame=true&margin-h=55" alt="vishal24102002" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Cipher-Void&theme=onedark&no-bg=true&margin-w=15&no-frame=true&margin-h=55" alt="vishal24102002" /></p>
 
 <h2>Projects {Best}</h2>
 <ul>
