@@ -11,7 +11,7 @@
 
 <h2> Achievements</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cipher-Void&label=Profile%20views&color=0e75b6&style=flat" alt="vishal24102002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cipher-Void&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal24102002" /> </p>
 
 
 <p align='center'>
@@ -23,7 +23,7 @@
 </p>
 
 ### 🏆 GitHub Trophies 🏆
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Cipher-Void&theme=onedark&no-bg=true&margin-w=15&no-frame=true&margin-h=55" alt="vishal24102002" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Vishal24102002&theme=onedark&no-bg=true&margin-w=15&no-frame=true&margin-h=55" alt="Vishal24102002" /></p>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -64,7 +64,7 @@
 
 <h2>🔝 Top Contributed Repo</h2>
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Cipher-Void&limit=5&theme=light&combine_all_yearly_contributions=true">
+<img src="https://github-contributor-stats.vercel.app/api?username=Vishal24102002&limit=5&theme=light&combine_all_yearly_contributions=true">
 </p>
 
 <p align="center">
@@ -88,9 +88,9 @@
 
 <h2> Stats</h2>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cipher-Void&" alt="vishal24102002" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal24102002&" alt="vishal24102002" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Cipher-Void&theme=react-dark" width=900px></p>
+<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal24102002&theme=react-dark" width=900px></p>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
