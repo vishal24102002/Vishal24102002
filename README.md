@@ -1,9 +1,12 @@
 <img src="image/2000x500px.gif">
 
-<b>👋 Hi there ,</b>
 <h2>About</h2>
 <p>
   Hello! I'm Vishal sharma, a passionate software developer with a strong foundation in various programming languages and technologies. With skills in Python, MySQL, Flutter, HTML, CSS, and basic knowledge of Java and C, I enjoy building innovative and efficient solutions.
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
 <h2> Achievements</h2>
@@ -15,8 +18,16 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
 ### 🏆 GitHub Trophies 🏆
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Cipher-Void&theme=onedark&no-bg=true&margin-w=15&no-frame=true&margin-h=55" alt="vishal24102002" /></p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 <h2>Projects {Best}</h2>
 <ul>
@@ -47,13 +58,20 @@
   </li>
 </ul>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
 <h2>🔝 Top Contributed Repo</h2>
 <p align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=Cipher-Void&limit=5&theme=light&combine_all_yearly_contributions=true">
 </p>
 
-<h2>Key Skills</h2>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
+<h2>Key Skills</h2>
 
 <img align="right" src="https://skillicons.dev/icons?i=py,flask,mysql,html,css,java,flutter,c&perline=4"/>
 - **Programming Languages**: Proficient in Python, with basic knowledge of Java and C.<br>
@@ -61,6 +79,10 @@
 - **Database Management**: Experienced with MySQL for managing and structuring data efficiently.<br>
 - **Mobile Development**: Proficient in Flutter for building cross-platform mobile applications.<br>
 <br clear="right"/>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
   
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal24102002&show_icons=true&locale=en&layout=compact" alt="Description of image" width="200" /> -->
 
@@ -70,6 +92,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Cipher-Void&theme=react-dark" width=900px></p>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 <h2>Interests</h2>
 
@@ -81,6 +106,9 @@ In my free time, I engage in activities that enhance my technical skills and kee
 <i class="fas fa-laptop-code" style="color: #28a745;"></i> Coding  
 <i class="fas fa-microphone-alt" style="color: #dc3545;"></i> Singing
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 <h2>📞 Contact Me 📞</h2>
 
@@ -101,7 +129,10 @@ I'm always excited to collaborate on new projects or discuss innovative ideas. F
   </p>
 </div> 
 
-
 <p align="center" width='100%'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
