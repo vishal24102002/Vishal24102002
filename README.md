@@ -64,7 +64,7 @@
 
 <h2>🔝 Top Languages Used</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal24102002&langs_count=6&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal24102002&langs_count=6&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" width="35%" />
 </p>
 
 <p align="center">
@@ -84,13 +84,12 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
   
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal24102002&show_icons=true&locale=en&layout=compact" alt="Description of image" width="200" /> -->
 
 <h2> Stats</h2>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal24102002&" alt="vishal24102002" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal24102002" alt="vishal24102002" width=400px/></p>
 
-<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal24102002&theme=react-dark" width=900px></p>
+<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal24102002&theme=react-dark" width=800px></p>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -102,9 +101,9 @@
 In my free time, I engage in activities that enhance my technical skills and keep me creatively inspired. I stay updated with the latest advancements in technology and frequently experiment with new programming languages and frameworks. Actively contributing to open-source projects helps me improve my coding skills and collaborate with a global community of developers. Participating in coding challenges on platforms like LeetCode and HackerRank! hones my problem-solving abilities and keeps my algorithms knowledge sharp. I enjoy attending tech meetups and conferences to network with industry professionals and learn about emerging technologies. Additionally, I continuously work on personal projects to apply new concepts and improve my practical experience. I regularly read books and articles on software development, which helps me stay informed about best practices and industry trends.
 </p>
 
-<i class="fas fa-bicycle" style="color: #007bff;"></i>🚵🏻‍♂️ Riding bicycles 🚵🏻‍♂️
-<i class="fas fa-laptop-code" style="color: #28a745;"></i>👩🏻‍💻 Coding 👩🏻‍💻
-<i class="fas fa-microphone-alt" style="color: #dc3545;"></i>🎤 Singing 🎤
+<i class="fas fa-bicycle" style="color: #007bff;"></i>🚵🏻‍♂️ Riding bicycles 🚵🏻‍♂️<br>
+<i class="fas fa-laptop-code" style="color: #28a745;"></i>👩🏻‍💻 Coding 👩🏻‍💻<br>
+<i class="fas fa-microphone-alt" style="color: #dc3545;"></i>🎤 Singing 🎤<br>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
