@@ -96,6 +96,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/Vishal24102002/token_tracker/blob/main/README.md">
+        📲 💻 Solana Tracker </a>
+    </td>
+    <td>
+      <a href="https://github.com/Vishal24102002/token_tracker">
+        <img src="https://img.shields.io/badge/Open-Project-blue?style=for-the-badge&logo=appveyor" alt="Open App">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/Vishal24102002/SmartLib/blob/main/README.md">
         📲 💻 Smart_library 
       </a> <span style="color:green;">(on-Progress)</span>
