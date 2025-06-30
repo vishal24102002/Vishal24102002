@@ -60,24 +60,24 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/24102002vishal/V.A.C/blob/main/README.md">
-        V.A.C.
+      <a href="https://github.com/Vishal24102002/V.A.C/blob/main/README.md">
+        💻 V.A.C.
       </a>
     </td>
     <td>
-      <a href="https://github.com/24102002vishal/V.A.C">
+      <a href="https://github.com/Vishal24102002/V.A.C">
         <img src="https://img.shields.io/badge/Open-Project-blue?style=for-the-badge&logo=appveyor" alt="Open App">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/24102002vishal/TimeTable_generator_A.I./blob/main/README.md">
+      <a href="https://github.com/Vishal24102002/Solana_trading_platform/blob/main/README.md">
          💻 Vireonix Trading Platform
       </a>
     </td>
     <td>
-      <a href="https://github.com/vishal24102002/Solana_trading_platform">
+      <a href="https://github.com/Vishal24102002/Solana_trading_platform">
         <img src="https://img.shields.io/badge/Open-Project-blue?style=for-the-badge&logo=appveyor" alt="Open App">
       </a>
     </td>
@@ -85,11 +85,11 @@
   <tr>
     <td>
       <a href="https://github.com/24102002vishal/TimeTable_generator_A.I./blob/main/README.md">
-        📲 Timetable-Generator (API)
+        📲 Timetable-Generator
       </a>
     </td>
     <td>
-      <a href="https://github.com/24102002vishal/TimeTable_generator_A.I.">
+      <a href="https://github.com/Vishal24102002/TimeTable_generator_A.I.">
         <img src="https://img.shields.io/badge/Open-Project-blue?style=for-the-badge&logo=appveyor" alt="Open App">
       </a>
     </td>
