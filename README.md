@@ -22,6 +22,8 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
+
+
 ### 🏆 GitHub Trophies 🏆
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Vishal24102002&theme=onedark&no-bg=true&margin-w=15&no-frame=true&margin-h=55" alt="Vishal24102002" /></p>
 
@@ -30,33 +32,81 @@
 </p>
 
 <h2>Projects {Best}</h2>
-<ul>
-  <li>
-    <a href="https://github.com/Vishal24102002/Aravality_App/blob/main/README.md">
-    Aravality (android app)
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/Vishal24102002/DBMS_GUI/blob/main/README.md">
-      DBMS (Database management system) GUI
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/24102002vishal/V.A.C/blob/main/README.md">
-      V.A.C.
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/24102002vishal/TimeTable_generator_A.I./blob/main/README.md">
-      Timetable-Generator (API)
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/Vishal24102002/SmartLib/blob/main/README.md">
-      Smart_library (on-Progress)
-    </a>
-  </li>
-</ul>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Vishal24102002/Aravality_App/blob/main/README.md">
+        📲 Aravality 
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Vishal24102002/Aravality_App">
+        <img src="https://img.shields.io/badge/Open-Project-blue?style=for-the-badge&logo=appveyor" alt="Open App">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Vishal24102002/DBMS_GUI/blob/main/README.md">
+        📲 💻 DBMS (Database management system) GUI
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Vishal24102002/DBMS_GUI">
+        <img src="https://img.shields.io/badge/Open-Project-blue?style=for-the-badge&logo=appveyor" alt="Open App">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/24102002vishal/V.A.C/blob/main/README.md">
+        V.A.C.
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/24102002vishal/V.A.C">
+        <img src="https://img.shields.io/badge/Open-Project-blue?style=for-the-badge&logo=appveyor" alt="Open App">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/24102002vishal/TimeTable_generator_A.I./blob/main/README.md">
+         💻 Vireonix Trading Platform
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vishal24102002/Solana_trading_platform">
+        <img src="https://img.shields.io/badge/Open-Project-blue?style=for-the-badge&logo=appveyor" alt="Open App">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/24102002vishal/TimeTable_generator_A.I./blob/main/README.md">
+        📲 Timetable-Generator (API)
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/24102002vishal/TimeTable_generator_A.I.">
+        <img src="https://img.shields.io/badge/Open-Project-blue?style=for-the-badge&logo=appveyor" alt="Open App">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Vishal24102002/SmartLib/blob/main/README.md">
+        📲 💻 Smart_library 
+      </a> <span style="color:green;">(on-Progress)</span>
+    </td>
+    <td>
+      <a href="https://github.com/Vishal24102002/SmartLib">
+        <img src="https://img.shields.io/badge/Open-Project-blue?style=for-the-badge&logo=appveyor" alt="Open App">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
