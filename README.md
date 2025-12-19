@@ -1,6 +1,6 @@
 <img src="image/2000x500px.gif">
 
-<h2>About Me</h2>
+## About Me
 <p>
   Hello! I'm Vishal sharma, a passionate software developer with a strong foundation in various programming languages and technologies. With skills in Python, MySQL, Flutter, HTML, CSS, and basic knowledge of Java and C, I enjoy building innovative and efficient solutions.
 </p>
@@ -9,13 +9,12 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<h2> Achievements</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishal24102002&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal24102002" /> </p>
-
+## Achievements
 
 <p align='center'>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+<img src="https://komarev.com/ghpvc/?username=Vishal24102002&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal24102002" />
+<!-- <a href="https://www.buymeacoffee.com/vishalsharb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
+<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"> -->
 </p>
 
 <p align="center">
@@ -123,7 +122,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<h2>🔝 Top Languages Used</h2>
+## 🔝 Top Languages Used
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal24102002&langs_count=6&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" width="35%" />
 </p>
@@ -132,7 +131,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<h2>Key Skills</h2>
+## Key Skills
 
 <img align="right" src="https://skillicons.dev/icons?i=py,flask,mysql,html,css,java,flutter,c&perline=4"/>
 - **Programming Languages**: Proficient in Python, with basic knowledge of Java and C.<br>
@@ -146,7 +145,7 @@
 </p>
   
 
-<h2> Stats</h2>
+## Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal24102002" alt="vishal24102002" width=400px/></p>
 
@@ -156,7 +155,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<h2>Interests</h2>
+## Interests
 
 <p>
 In my free time, I engage in activities that enhance my technical skills and keep me creatively inspired. I stay updated with the latest advancements in technology and frequently experiment with new programming languages and frameworks. Actively contributing to open-source projects helps me improve my coding skills and collaborate with a global community of developers. Participating in coding challenges on platforms like LeetCode and HackerRank! hones my problem-solving abilities and keeps my algorithms knowledge sharp. I enjoy attending tech meetups and conferences to network with industry professionals and learn about emerging technologies. Additionally, I continuously work on personal projects to apply new concepts and improve my practical experience. I regularly read books and articles on software development, which helps me stay informed about best practices and industry trends.
@@ -170,7 +169,20 @@ In my free time, I engage in activities that enhance my technical skills and kee
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<h2>📞 Contact Me 📞</h2>
+## ☕ Support My Work
+<p align="center">
+  If you find my projects useful or enjoy my content, consider supporting me with a coffee! It helps keep the motivation (and caffeine) flowing. ❤️
+</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/vishalsharb" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+## 📞 Contact Me 📞
 
 I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out to me at Vishalsharma659615@gmail.com or connect with me on [LinkedIn/GitHub].
 
