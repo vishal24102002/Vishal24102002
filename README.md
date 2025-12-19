@@ -25,13 +25,13 @@
 
 
 ### 🏆 GitHub Trophies 🏆
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Vishal24102002&theme=onedark&no-bg=true&margin-w=15&no-frame=true&margin-h=55" alt="Vishal24102002" /></p>
+<p align="center"><img src="https://github-trophies.vercel.app/?username=Vishal24102002&theme=onedark&no-bg=true&margin-w=15&no-frame=true&margin-h=55" alt="Vishal24102002" /></p>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<h2>Projects {Best}</h2>
+<!-- <h2>Projects {Best}</h2>
 
 <table>
   <tr>
@@ -117,7 +117,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
