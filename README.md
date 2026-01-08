@@ -5,29 +5,29 @@
   Hello! I'm Vishal sharma, a passionate software developer with a strong foundation in various programming languages and technologies. With skills in Python, MySQL, Flutter, HTML, CSS, and basic knowledge of Java and C, I enjoy building innovative and efficient solutions.
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal24102002&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 </p>
 
 ## Achievements
 
-<p align='center'>
+<p align='right'>
 <img src="https://komarev.com/ghpvc/?username=Vishal24102002&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal24102002" />
 <!-- <a href="https://www.buymeacoffee.com/vishalsharb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
 <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"> -->
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 </p>
-
-
 
 ### 🏆 GitHub Trophies 🏆
 <p align="center"><img src="https://github-trophies.vercel.app/?username=Vishal24102002&theme=onedark&no-bg=true&margin-w=15&no-frame=true&margin-h=55" alt="Vishal24102002" /></p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 </p>
 
 <!-- <h2>Projects {Best}</h2>
@@ -119,42 +119,41 @@
 </table> -->
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 </p>
 
-## 🔝 Top Languages Used
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal24102002&langs_count=6&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" width="35%" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
+</p> -->
 
 ## Key Skills
 
 <img align="right" src="https://skillicons.dev/icons?i=py,flask,mysql,html,css,java,flutter,c&perline=4"/>
-- **Programming Languages**: Proficient in Python, with basic knowledge of Java and C.<br>
-- **Web Development**: Skilled in HTML and CSS for creating responsive and dynamic websites.<br>
-- **Database Management**: Experienced with MySQL for managing and structuring data efficiently.<br>
-- **Mobile Development**: Proficient in Flutter for building cross-platform mobile applications.<br>
+- <b>Programming Languages</b> : Proficient in Python, with basic knowledge of Java and C.<br>
+- <b>Web Development</b>: Skilled in HTML and CSS for creating responsive and dynamic websites.<br>
+- <b>Database Management</b>: Experienced with MySQL for managing and structuring data efficiently.<br>
+- <b>Mobile Development</b>: Proficient in Flutter for building cross-platform mobile applications.<br>
 <br clear="right"/>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 </p>
-  
 
+---
 ## Stats
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal24102002" alt="vishal24102002" width=400px/></p>
 
 <p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal24102002&theme=react-dark" width=800px></p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 </p>
 
+---
 ## Interests
 
 <p>
@@ -169,6 +168,7 @@ In my free time, I engage in activities that enhance my technical skills and kee
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
+---
 ## ☕ Support My Work
 <p align="center">
   If you find my projects useful or enjoy my content, consider supporting me with a coffee! It helps keep the motivation (and caffeine) flowing. ❤️
@@ -178,22 +178,22 @@ In my free time, I engage in activities that enhance my technical skills and kee
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
   </a>
 </p>
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
+</p>
 ## 📞 Contact Me 📞
 
 I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out to me at Vishalsharma659615@gmail.com or connect with me on [LinkedIn/GitHub].
 
-<h2 align="center">Quick links</h2>
+## <p align="center">Quick links<p>
 <div style="display:flex;flex-direction: column;">
   <p align="center"> 
     <a href="https://www.linkedin.com/in/vishal-sharma-57018323b/">
       <img style="height:30px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="">
-      <img style="height:30px;" src="image/resu.jpeg">
+      <img style="height:30px;" src="https://img.shields.io/badge/Resume-dynamic-blue?style=for-the-badge">
     </a>
     <a href="https://www.hackerrank.com/profile/vishalsharma6591">
       <img style="height:30px;" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
@@ -202,9 +202,8 @@ I'm always excited to collaborate on new projects or discuss innovative ideas. F
 </div> 
 
 <p align="center" width='100%'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=200%&height=100&section=footer"/>
 </p>
-
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 </p>
