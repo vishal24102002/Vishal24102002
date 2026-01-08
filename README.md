@@ -5,7 +5,7 @@
   Hello! I'm Vishal sharma, a passionate software developer with a strong foundation in various programming languages and technologies. With skills in Python, MySQL, Flutter, HTML, CSS, and basic knowledge of Java and C, I enjoy building innovative and efficient solutions.
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal24102002&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal24102002&layout=pie)](https://github.com/anuraghazra/github-readme-stats)</p> -->
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
