@@ -132,11 +132,12 @@
 
 ## Key Skills
 
-<img align="right" src="https://skillicons.dev/icons?i=py,flask,mysql,html,css,java,flutter,c&perline=4"/>
+<img align="right" src="https://skillicons.dev/icons?i=py,docker,git,github,django,flask,mysql,mongo,html,css,java,flutter,c&perline=5"/>
 - <b>Programming Languages</b> : Proficient in Python, with basic knowledge of Java and C.<br>
 - <b>Web Development</b>: Skilled in HTML and CSS for creating responsive and dynamic websites.<br>
 - <b>Database Management</b>: Experienced with MySQL for managing and structuring data efficiently.<br>
 - <b>Mobile Development</b>: Proficient in Flutter for building cross-platform mobile applications.<br>
+- <b>Development Tools</b>: Experienced in Docker and Git for Managing and Deploying projects.<br>
 <br clear="right"/>
 
 <p align="center">
