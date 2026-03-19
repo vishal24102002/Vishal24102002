@@ -4,12 +4,10 @@ Hi, I'm **Vishal Sharma** <br>
 A passionate Software Developer | Python Developer | Backend Engineer | Flutter Developer with hands-on experience in building scalable applications and efficient systems.
 
 I specialize in:
-- Python Development (Backend, Automation, Scripting)
-- Cloud & DevOps (AWS, Docker, Git, CI/CD)
-- Databases (MySQL, MongoDB)
-- Mobile App Development (Flutter)
-- Web Development (HTML, CSS)
-- Exploring AI/ML, Data Science, and Intelligent Systems
+- Production Engineering
+- Software Development
+- Teamwork
+- Problem Solving
 
 <!-- <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal24102002&layout=pie)](https://github.com/anuraghazra/github-readme-stats)</p> -->
 
@@ -21,10 +19,6 @@ I specialize in:
 
 ### 🏆 GitHub Trophies 🏆
 <p align="center"><img src="https://github-trophies.vercel.app/?username=Vishal24102002&theme=onedark&no-bg=true&margin-w=15&no-frame=true&margin-h=55" alt="Vishal24102002" /></p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
-</p>
 
 <!-- <h2>Projects {Best}</h2>
 
@@ -114,17 +108,9 @@ I specialize in:
   </tr>
 </table> -->
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal24102002&langs_count=6&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" width="35%" />
-</p>
-
 ## Key Skills
 
-<img align="right" src="https://skillicons.dev/icons?i=py,docker,git,github,django,flask,mysql,mongo,html,css,java,flutter,c&perline=5"/>
+<img align="right" src="https://skillicons.dev/icons?i=py,aws,docker,git,github,django,flask,mysql,mongo,html,css,java,flutter,c&perline=5"/>
 - <b>Programming Languages</b> : Proficient in Python, with basic knowledge of Java and C.<br>
 - <b>Web Development</b>: Skilled in HTML and CSS for creating responsive and dynamic websites.<br>
 - <b>Database Management</b>: Experienced with MySQL for managing and structuring data efficiently.<br>
@@ -132,13 +118,11 @@ I specialize in:
 - <b>Development Tools</b>: Experienced in Docker and Git for Managing and Deploying projects.<br>
 <br clear="right"/>
 
----
 ## Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal24102002" alt="vishal24102002" width=400px/></p>
 
 <p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal24102002&theme=react-dark" width=800px></p>
 
----
 ## Interests
 
 <p>
@@ -150,7 +134,6 @@ In my free time, I engage in activities that enhance my technical skills and kee
 <i class="fas fa-microphone-alt" style="color: #dc3545;"></i> **Learning new Technologies** <br>
 <i class="fas fa-laptop-code" style="color: #28a745;"></i> **Coding** <br>
 
----
 ## ☕ Support My Work
 <p align="center">
   If you find my projects useful or enjoy my content, consider supporting me with a coffee! It helps keep the motivation (and caffeine) flowing. ❤️
