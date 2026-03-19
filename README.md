@@ -1,9 +1,16 @@
 <img src="image/2000x500px.gif">
 
 ## About Me
-<p>
-  Hello! I'm Vishal sharma, a passionate software developer with a strong foundation in various programming languages and technologies. With skills in Python, MySQL, Flutter, HTML, CSS, and basic knowledge of Java and C, I enjoy building innovative and efficient solutions.
-</p>
+Hi, I'm Vishal Sharma <br>
+A passionate Software Developer | Python Developer | Backend Engineer | Flutter Developer with hands-on experience in building scalable applications and efficient systems.
+
+I specialize in:
+- Python Development (Backend, Automation, Scripting)
+- Cloud & DevOps (AWS, Docker, Git, CI/CD)
+- Databases (MySQL, MongoDB)
+- Mobile App Development (Flutter)
+- Web Development (HTML, CSS)
+- Exploring AI/ML, Data Science, and Intelligent Systems
 
 <!-- <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal24102002&layout=pie)](https://github.com/anuraghazra/github-readme-stats)</p> -->
 
@@ -174,22 +181,13 @@ In my free time, I engage in activities that enhance my technical skills and kee
 <p align="center">
   If you find my projects useful or enjoy my content, consider supporting me with a coffee! It helps keep the motivation (and caffeine) flowing. ❤️
 </p>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/vishalsharb" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
-</p>
-## 📞 Contact Me 📞
 
-I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out to me at Vishalsharma659615@gmail.com or connect with me on [LinkedIn/GitHub].
-
-## <p align="center">Quick links<p>
 <div style="display:flex;flex-direction: column;">
   <p align="center"> 
+    <a href="https://www.buymeacoffee.com/vishalsharb" target="_blank">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+    </a>
     <a href="https://www.linkedin.com/in/vishal-sharma-57018323b/">
       <img style="height:30px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
