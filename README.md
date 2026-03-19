@@ -1,7 +1,6 @@
 <img src="image/2000x500px.gif">
 
-## About Me
-Hi, I'm Vishal Sharma <br>
+Hi, I'm **Vishal Sharma** <br>
 A passionate Software Developer | Python Developer | Backend Engineer | Flutter Developer with hands-on experience in building scalable applications and efficient systems.
 
 I specialize in:
@@ -14,20 +13,10 @@ I specialize in:
 
 <!-- <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal24102002&layout=pie)](https://github.com/anuraghazra/github-readme-stats)</p> -->
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
-</p>
-
 ## Achievements
 
 <p align='right'>
 <img src="https://komarev.com/ghpvc/?username=Vishal24102002&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal24102002" />
-<!-- <a href="https://www.buymeacoffee.com/vishalsharb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
-<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"> -->
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 </p>
 
 ### 🏆 GitHub Trophies 🏆
@@ -43,7 +32,7 @@ I specialize in:
   <tr>
     <td>
       <a href="https://github.com/Vishal24102002/Aravality_App/blob/main/README.md">
-        📲 Aravality 
+        Aravality 
       </a>
     </td>
     <td>
@@ -55,7 +44,7 @@ I specialize in:
   <tr>
     <td>
       <a href="https://github.com/Vishal24102002/DBMS_GUI/blob/main/README.md">
-        📲 💻 DBMS (Database management system) GUI
+        DBMS (Database management system) GUI
       </a>
     </td>
     <td>
@@ -67,7 +56,7 @@ I specialize in:
   <tr>
     <td>
       <a href="https://github.com/Vishal24102002/V.A.C/blob/main/README.md">
-        💻 V.A.C.
+        V.A.C.
       </a>
     </td>
     <td>
@@ -79,7 +68,7 @@ I specialize in:
   <tr>
     <td>
       <a href="https://github.com/Vishal24102002/Solana_trading_platform/blob/main/README.md">
-         💻 Vireonix Trading Platform
+        Vireonix Trading Platform
       </a>
     </td>
     <td>
@@ -91,7 +80,7 @@ I specialize in:
   <tr>
     <td>
       <a href="https://github.com/24102002vishal/TimeTable_generator_A.I./blob/main/README.md">
-        📲 Timetable-Generator
+        Timetable-Generator
       </a>
     </td>
     <td>
@@ -103,7 +92,7 @@ I specialize in:
   <tr>
     <td>
       <a href="https://github.com/Vishal24102002/token_tracker/blob/main/README.md">
-        📲 💻 Solana Tracker </a>
+        Solana Tracker </a>
     </td>
     <td>
       <a href="https://github.com/Vishal24102002/token_tracker">
@@ -114,7 +103,7 @@ I specialize in:
   <tr>
     <td>
       <a href="https://github.com/Vishal24102002/SmartLib/blob/main/README.md">
-        📲 💻 Smart_library 
+        Smart_library 
       </a> <span style="color:green;">(on-Progress)</span>
     </td>
     <td>
@@ -133,10 +122,6 @@ I specialize in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal24102002&langs_count=6&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" width="35%" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
-</p> -->
-
 ## Key Skills
 
 <img align="right" src="https://skillicons.dev/icons?i=py,docker,git,github,django,flask,mysql,mongo,html,css,java,flutter,c&perline=5"/>
@@ -147,19 +132,11 @@ I specialize in:
 - <b>Development Tools</b>: Experienced in Docker and Git for Managing and Deploying projects.<br>
 <br clear="right"/>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
-</p>
-
 ---
 ## Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal24102002" alt="vishal24102002" width=400px/></p>
 
 <p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal24102002&theme=react-dark" width=800px></p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
-</p>
 
 ---
 ## Interests
@@ -168,13 +145,10 @@ I specialize in:
 In my free time, I engage in activities that enhance my technical skills and keep me creatively inspired. I stay updated with the latest advancements in technology and frequently experiment with new programming languages and frameworks. Actively contributing to open-source projects helps me improve my coding skills and collaborate with a global community of developers. Participating in coding challenges on platforms like LeetCode and HackerRank! hones my problem-solving abilities and keeps my algorithms knowledge sharp. I enjoy attending tech meetups and conferences to network with industry professionals and learn about emerging technologies. Additionally, I continuously work on personal projects to apply new concepts and improve my practical experience. I regularly read books and articles on software development, which helps me stay informed about best practices and industry trends.
 </p>
 
-<i class="fas fa-bicycle" style="color: #007bff;"></i>🚵🏻‍♂️ Riding bicycles 🚵🏻‍♂️<br>
-<i class="fas fa-laptop-code" style="color: #28a745;"></i>👩🏻‍💻 Coding 👩🏻‍💻<br>
-<i class="fas fa-microphone-alt" style="color: #dc3545;"></i>🎤 Singing 🎤<br>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<i class="fas fa-bicycle" style="color: #007bff;"></i> **Playing Mobile Games** <br>
+<i class="fas fa-bicycle" style="color: #007bff;"></i> **Riding bicycles** <br>
+<i class="fas fa-microphone-alt" style="color: #dc3545;"></i> **Learning new Technologies** <br>
+<i class="fas fa-laptop-code" style="color: #28a745;"></i> **Coding** <br>
 
 ---
 ## ☕ Support My Work
